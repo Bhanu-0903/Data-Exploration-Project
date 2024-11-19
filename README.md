@@ -1,2 +1,2 @@
 # Data-Exploration-Project
-Data Exploration of covid data using SQL
+Used SQL to get insights from the covid data
